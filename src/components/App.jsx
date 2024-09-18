@@ -7,14 +7,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Note />
-      <div>
-        <Note noteTitle="Sample Title" noteContent="This is a sample content" />
-        <Note
-          noteTitle="Another Title"
-          noteContent="This is another sample content"
-        />
-      </div>
+      <Note noteTitle="Sample Title" noteContent="This is a sample content" />
       <Footer />
     </div>
   );
