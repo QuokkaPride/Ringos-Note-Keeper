@@ -10,3 +10,4 @@ State hooks https://codesandbox.io/p/sandbox/usestate-hook-practice-forked-fpxtw
 
 24.09.15 
 Event Handling & React Forms https://codesandbox.io/p/sandbox/react-forms-forked-9ypmpw?file=%2Fsrc%2Fcomponents%2FApp.jsx%3A10%2C1 
+Changing complex state https://codesandbox.io/p/sandbox/changing-complex-state-practice-forked-rx77rw?file=%2Fsrc%2Fcomponents%2FApp.jsx%3A13%2C32
