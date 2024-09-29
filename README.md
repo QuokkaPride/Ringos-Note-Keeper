@@ -14,3 +14,6 @@ Changing complex state https://codesandbox.io/p/sandbox/changing-complex-state-p
 
 24.09.27
 Component tree https://codesandbox.io/p/sandbox/managing-a-component-tree-forked-zvv3cp?file=%2Fsrc%2Fcomponents%2FApp.jsx%3A21%2C30&workspaceId=0732f3c3-094d-448a-9917-89f3e7fb733f
+
+24.09.29
+React dependencies & styling https://codesandbox.io/p/sandbox/using-pre-built-react-components-forked-3xyqh5?file=%2Fsrc%2Fcomponents%2FCreateArea.jsx%3A33%2C24&workspaceId=0732f3c3-094d-448a-9917-89f3e7fb733f
